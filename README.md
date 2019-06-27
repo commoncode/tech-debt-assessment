@@ -5,10 +5,10 @@ Here is described a general framework for objectively assessing the technical de
 
 ## Goals of the assessment:
 Determine a measure of overall quality of software project with respect to:
-- A) Maintainability – cost of extending or adding features, or fixing problems
-- B) Scalability – cost of system ownership as a function of growth and adoption
-- C) Stability – likelihood of problems related to software errors or limited error handling
-- D) Conformance – use of and support for established and proven software engineering and operational practices
+A) Maintainability – cost of extending or adding features, or fixing problems
+B) Scalability – cost of system ownership as a function of growth and adoption
+C) Stability – likelihood of problems related to software errors or limited error handling
+D) Conformance – use of and support for established and proven software engineering and operational practices
 
 ## What this assessment is not intended to measure:
 - Security – penetration testing of deployed environments
